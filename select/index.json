@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "素直になれたら",
+  "base_artist": "JUJU",
+  "createdAt": "2026-03-08T13:01:18.682157Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "素直になれたら(feat.Spontania)",
+      "artist": "JUJU feat.Spontania",
+      "has_synced": true,
+      "path": "select/01_素直になれたら(feat.Spontania)_JUJU_feat.Spontania.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "素直になれたら",
+      "artist": "JUJU feat. Spontania",
+      "has_synced": true,
+      "path": "select/02_素直になれたら_JUJU_feat._Spontania.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "素直になれたら",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/03_素直になれたら_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "素直になれたら",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/04_素直になれたら_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "素直になれたら feat.Spontania",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/05_素直になれたら_feat.Spontania_JUJU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "素直になれたら JUJU feat.Spontania",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_01_素直になれたら_JUJU_feat.Spontania_JUJU.txt"
+    }
+  ]
+}
